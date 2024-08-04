@@ -18,11 +18,6 @@ This is a simple web-based calculator application. It allows basic arithmetic op
 
 
 
-## Files
-
-- `index.html`: The main HTML file containing the structure of the calculator.
-- `styles.css`: The CSS file for styling the calculator.
-- `script.js`: The JavaScript file containing the functionality of the calculator.
 
 
 
