@@ -16,6 +16,11 @@ This is a simple web-based calculator application. It allows basic arithmetic op
 1. Clone or download the repository.
 2. Open the `index.html` file in a web browser.
 
+## Example
+
+![Calculator Screenshot](screenshot.png)
+
+
 ## Files
 
 - `index.html`: The main HTML file containing the structure of the calculator.
